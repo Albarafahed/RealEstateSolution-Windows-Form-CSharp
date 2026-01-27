@@ -1,0 +1,46 @@
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.deps.json
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.pdb
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.pdb
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.AssemblyReference.cache
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfo.cs
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEsta.9E4BE405.Up2Date
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\refint\RealEstate.DataAccess.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.pdb
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\ref\RealEstate.DataAccess.dll
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.deps.json
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.dll
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.pdb
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.dll
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.pdb
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.AssemblyReference.cache
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfoInputs.cache
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfo.cs
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.CoreCompileInputs.cache
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEsta.9E4BE405.Up2Date
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.dll
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\refint\RealEstate.DataAccess.dll
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.pdb
+D:\New folder\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\ref\RealEstate.DataAccess.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.deps.json
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.DataAccess.pdb
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\bin\Debug\net9.0\RealEstate.Entities.pdb
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.AssemblyReference.cache
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfoInputs.cache
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.AssemblyInfo.cs
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.csproj.CoreCompileInputs.cache
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.sourcelink.json
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEsta.9E4BE405.Up2Date
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\refint\RealEstate.DataAccess.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\RealEstate.DataAccess.pdb
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.DataAccess\obj\Debug\net9.0\ref\RealEstate.DataAccess.dll

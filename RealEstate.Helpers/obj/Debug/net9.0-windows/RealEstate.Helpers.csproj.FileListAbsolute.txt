@@ -1,0 +1,34 @@
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.deps.json
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.pdb
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfoInputs.cache
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfo.cs
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\refint\RealEstate.Helpers.dll
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.pdb
+C:\Users\amgad\source\repos\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\ref\RealEstate.Helpers.dll
+D:\New folder\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.deps.json
+D:\New folder\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.dll
+D:\New folder\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.pdb
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfoInputs.cache
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfo.cs
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.csproj.CoreCompileInputs.cache
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.dll
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\refint\RealEstate.Helpers.dll
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.pdb
+D:\New folder\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\ref\RealEstate.Helpers.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.deps.json
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\bin\Debug\net9.0-windows\RealEstate.Helpers.pdb
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfoInputs.cache
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.AssemblyInfo.cs
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.csproj.CoreCompileInputs.cache
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.sourcelink.json
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\refint\RealEstate.Helpers.dll
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\RealEstate.Helpers.pdb
+D:\Albara\My Projects\Wnidows Form C#\Full Stack\RealEstateSolution\RealEstate.Helpers\obj\Debug\net9.0-windows\ref\RealEstate.Helpers.dll

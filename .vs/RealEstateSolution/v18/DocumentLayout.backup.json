@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.ui\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\clientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\clientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\contractdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\contractdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\paymentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\paymentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmcontractpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmcontractpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\reportsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\reportsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.dataaccess\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB29E70-B827-460C-B648-2D6275D0854C}|RealEstate.DataAccess\\RealEstate.DataAccess.csproj|solutionrelative:realestate.dataaccess\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\realestate.ui\\frmpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|d:\\albara\\my projects\\wnidows form c#\\full stack\\realestatesolution\\realestate.ui\\frmsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBB0F1-C87D-4D8C-AD51-A905CDC0951F}|RealEstate.UI\\RealEstate.UI.csproj|solutionrelative:realestate.ui\\frmsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmClients.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmClients.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmClients.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmClients.cs [Design]",
+              "RelativeToolTip": "RealEstate.UI\\FrmClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:35:30.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmClients.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmClients.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmClients.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmClients.cs",
+              "RelativeToolTip": "RealEstate.UI\\FrmClients.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:37:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\PaymentDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\PaymentDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\PaymentDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\PaymentDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:06:06.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ContractDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\ContractDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ContractDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\ContractDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:04:55.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ClientDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\ClientDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ClientDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\ClientDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T05:47:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmContractPayments.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmContractPayments.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmContractPayments.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmContractPayments.cs [Design]",
+              "RelativeToolTip": "RealEstate.UI\\FrmContractPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:26:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\Database.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\Database.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\Database.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:05:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\LoginDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\LoginDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\LoginDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\LoginDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:06:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportsDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ReportsDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\ReportsDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\ReportsDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\ReportsDAL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:06:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\UserDAL.cs",
+              "RelativeDocumentMoniker": "RealEstate.DataAccess\\UserDAL.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.DataAccess\\UserDAL.cs",
+              "RelativeToolTip": "RealEstate.DataAccess\\UserDAL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:19:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmMain.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmMain.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmMain.cs",
+              "RelativeToolTip": "RealEstate.UI\\FrmMain.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:40:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmMain.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmMain.cs",
+              "ToolTip": "D:\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:40:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmLogin.cs",
+              "ToolTip": "D:\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:26:23.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmContracts.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmContracts.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmContracts.cs",
+              "ToolTip": "D:\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmContracts.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmContracts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:26:20.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmProperties.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmProperties.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmProperties.cs",
+              "ToolTip": "D:\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmProperties.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmProperties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:22:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPayments.cs [Design]",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmPayments.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmPayments.cs",
+              "ToolTip": "D:\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmPayments.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\RealEstateSolution\\RealEstate.UI\\FrmPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:19:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmSettings.Designer.cs",
+              "DocumentMoniker": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmSettings.Designer.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI\\FrmSettings.Designer.cs",
+              "ToolTip": "D:\\Albara\\My Projects\\Wnidows Form C#\\Full Stack\\RealEstateSolution\\RealEstate.UI\\FrmSettings.Designer.cs",
+              "RelativeToolTip": "RealEstate.UI\\FrmSettings.Designer.cs",
+              "ViewState": "AgIAAMcDAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:19:50.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
