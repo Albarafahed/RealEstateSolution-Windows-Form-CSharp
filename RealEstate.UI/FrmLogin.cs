@@ -36,7 +36,7 @@ namespace RealEstate.UI
 
         private void FrmLogin_Load(object sender, EventArgs e)
         {
-          
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -55,9 +55,10 @@ namespace RealEstate.UI
             }
 
             LoginDAL loginDAL = new LoginDAL();
-            bool isVaild=loginDAL.CheckLogin(txtUsername.Text.Trim(), txtPassword.Text);
-            if (isVaild) {
-            FrmMain frmMain = new FrmMain();
+            bool isVaild = loginDAL.CheckLogin(txtUsername.Text.Trim(), txtPassword.Text);
+            if (isVaild)
+            {
+                FrmMain frmMain = new FrmMain();
                 frmMain.Show();
                 this.Hide();
             }
